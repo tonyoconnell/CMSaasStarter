@@ -74,9 +74,7 @@
     <aside>
       <span class="footer-title opacity-80">Invite Me</span>
       <span
-        class="link link-hover max-w-[260px]"
-        href="https://criticalmoments.io"
-      >
+        class="link link-hover max-w-[260px]">
         With a focus on simplicity and efficiency, our platform enables users to
         go from concept to fully managed event in minutes. Key features include
         a one-click "Create Event" button, customizable privacy settings for
